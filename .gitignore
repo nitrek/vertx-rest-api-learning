@@ -1,0 +1,6 @@
+# gitignore for vertx-web
+.idea/
+.idea/workspace.xml
+.idea/libraries/
+.vscode/ 
+target/
